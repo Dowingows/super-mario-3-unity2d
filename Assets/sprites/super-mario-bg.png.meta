@@ -1,0 +1,3461 @@
+fileFormatVersion: 2
+guid: d309386083bc844b3842fdefb44c599e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_0
+    21300002: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_1
+    21300004: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_2
+    21300006: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_3
+    21300008: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_4
+    21300010: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_5
+    21300012: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_6
+    21300014: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_7
+    21300016: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_8
+    21300018: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_9
+    21300020: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_10
+    21300022: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_11
+    21300024: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_12
+    21300026: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_13
+    21300028: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_14
+    21300030: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_15
+    21300032: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_16
+    21300034: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_17
+    21300036: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_18
+    21300038: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_19
+    21300040: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_20
+    21300042: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_21
+    21300044: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_22
+    21300046: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_23
+    21300048: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_24
+    21300050: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_25
+    21300052: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_26
+    21300054: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_27
+    21300056: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_28
+    21300058: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_29
+    21300060: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_30
+    21300062: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_31
+    21300064: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_32
+    21300066: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_33
+    21300068: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_34
+    21300070: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_35
+    21300072: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_36
+    21300074: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_37
+    21300076: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_38
+    21300078: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_39
+    21300080: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_40
+    21300082: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_41
+    21300084: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_42
+    21300086: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_43
+    21300088: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_44
+    21300090: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_45
+    21300092: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_46
+    21300094: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_47
+    21300096: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_48
+    21300098: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_49
+    21300100: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_50
+    21300102: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_51
+    21300104: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_52
+    21300106: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_53
+    21300108: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_54
+    21300110: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_55
+    21300112: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_56
+    21300114: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_57
+    21300116: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_58
+    21300118: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_59
+    21300120: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_60
+    21300122: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_61
+    21300124: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_62
+    21300126: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_63
+    21300128: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_64
+    21300130: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_65
+    21300132: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_66
+    21300134: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_67
+    21300136: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_68
+    21300138: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_69
+    21300140: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_70
+    21300142: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_71
+    21300144: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_72
+    21300146: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_73
+    21300148: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_74
+    21300150: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_75
+    21300152: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_76
+    21300154: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_77
+    21300156: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_78
+    21300158: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_79
+    21300160: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_80
+    21300162: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_81
+    21300164: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_82
+    21300166: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_83
+    21300168: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_84
+    21300170: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_85
+    21300172: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_86
+    21300174: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_87
+    21300176: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_88
+    21300178: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_89
+    21300180: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_90
+    21300182: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_91
+    21300184: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_92
+    21300186: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_93
+    21300188: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_94
+    21300190: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_95
+    21300192: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_96
+    21300194: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_97
+    21300196: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_98
+    21300198: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_99
+    21300200: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_100
+    21300202: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_101
+    21300204: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_102
+    21300206: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_103
+    21300208: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_104
+    21300210: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_105
+    21300212: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_106
+    21300214: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_107
+    21300216: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_108
+    21300218: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_109
+    21300220: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_110
+    21300222: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_111
+    21300224: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_112
+    21300226: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_113
+    21300228: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_114
+    21300230: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_115
+    21300232: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_116
+    21300234: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_117
+    21300236: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_118
+    21300238: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_119
+    21300240: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_120
+    21300242: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_121
+    21300244: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_122
+    21300246: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_123
+    21300248: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_124
+    21300250: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_125
+    21300252: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_126
+    21300254: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_127
+    21300256: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_128
+    21300258: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_129
+    21300260: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_130
+    21300262: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_131
+    21300264: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_132
+    21300266: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_133
+    21300268: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_134
+    21300270: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_135
+    21300272: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_136
+    21300274: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_137
+    21300276: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_138
+    21300278: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_139
+    21300280: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_140
+    21300282: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_141
+    21300284: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_142
+    21300286: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_143
+    21300288: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_144
+    21300290: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_145
+    21300292: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_146
+    21300294: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_147
+    21300296: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_148
+    21300298: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_149
+    21300300: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_150
+    21300302: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_151
+    21300304: SNES - Super Mario All-Stars Super Mario Bros 3 - Backgrounds and Objects_152
+    21300306: super-mario-bg_0
+    21300308: super-mario-bg_1
+    21300310: super-mario-bg_2
+    21300312: super-mario-bg_3
+    21300314: super-mario-bg_4
+    21300316: super-mario-bg_5
+    21300318: super-mario-bg_6
+    21300320: super-mario-bg_7
+    21300322: super-mario-bg_8
+    21300324: super-mario-bg_9
+    21300326: super-mario-bg_10
+    21300328: super-mario-bg_11
+    21300330: super-mario-bg_12
+    21300332: super-mario-bg_13
+    21300334: super-mario-bg_14
+    21300336: super-mario-bg_15
+    21300338: super-mario-bg_16
+    21300340: super-mario-bg_17
+    21300342: super-mario-bg_18
+    21300344: super-mario-bg_19
+    21300346: super-mario-bg_20
+    21300348: super-mario-bg_21
+    21300350: super-mario-bg_22
+    21300352: super-mario-bg_23
+    21300354: super-mario-bg_24
+    21300356: super-mario-bg_25
+    21300358: super-mario-bg_26
+    21300360: super-mario-bg_27
+    21300362: super-mario-bg_28
+    21300364: super-mario-bg_29
+    21300366: super-mario-bg_30
+    21300368: super-mario-bg_31
+    21300370: super-mario-bg_32
+    21300372: super-mario-bg_33
+    21300374: super-mario-bg_34
+    21300376: super-mario-bg_35
+    21300378: super-mario-bg_36
+    21300380: super-mario-bg_37
+    21300382: super-mario-bg_38
+    21300384: super-mario-bg_39
+    21300386: super-mario-bg_40
+    21300388: super-mario-bg_41
+    21300390: super-mario-bg_42
+    21300392: super-mario-bg_43
+    21300394: super-mario-bg_44
+    21300396: super-mario-bg_45
+    21300398: super-mario-bg_46
+    21300400: super-mario-bg_47
+    21300402: super-mario-bg_48
+    21300404: super-mario-bg_49
+    21300406: super-mario-bg_50
+    21300408: super-mario-bg_51
+    21300410: super-mario-bg_52
+    21300412: super-mario-bg_53
+    21300414: super-mario-bg_54
+    21300416: super-mario-bg_55
+    21300418: super-mario-bg_56
+    21300420: super-mario-bg_57
+    21300422: super-mario-bg_58
+    21300424: super-mario-bg_59
+    21300426: super-mario-bg_60
+    21300428: super-mario-bg_61
+    21300430: super-mario-bg_62
+    21300432: super-mario-bg_63
+    21300434: super-mario-bg_64
+    21300436: super-mario-bg_65
+    21300438: super-mario-bg_66
+    21300440: super-mario-bg_67
+    21300442: super-mario-bg_68
+    21300444: super-mario-bg_69
+    21300446: super-mario-bg_70
+    21300448: super-mario-bg_71
+    21300450: super-mario-bg_72
+    21300452: super-mario-bg_73
+    21300454: super-mario-bg_74
+    21300456: super-mario-bg_75
+    21300458: super-mario-bg_76
+    21300460: super-mario-bg_77
+    21300462: super-mario-bg_78
+    21300464: super-mario-bg_79
+    21300466: super-mario-bg_80
+    21300468: super-mario-bg_81
+    21300470: super-mario-bg_82
+    21300472: super-mario-bg_83
+    21300474: super-mario-bg_84
+    21300476: super-mario-bg_85
+    21300478: super-mario-bg_86
+    21300480: super-mario-bg_87
+    21300482: super-mario-bg_88
+    21300484: super-mario-bg_89
+    21300486: super-mario-bg_90
+    21300488: super-mario-bg_91
+    21300490: super-mario-bg_92
+    21300492: super-mario-bg_93
+    21300494: super-mario-bg_94
+    21300496: super-mario-bg_95
+    21300498: super-mario-bg_96
+    21300500: super-mario-bg_97
+    21300502: super-mario-bg_98
+    21300504: super-mario-bg_99
+    21300506: super-mario-bg_100
+    21300508: super-mario-bg_101
+    21300510: super-mario-bg_102
+    21300512: super-mario-bg_103
+    21300514: super-mario-bg_104
+    21300516: super-mario-bg_105
+    21300518: super-mario-bg_106
+    21300520: super-mario-bg_107
+    21300522: super-mario-bg_108
+    21300524: super-mario-bg_109
+    21300526: super-mario-bg_110
+    21300528: super-mario-bg_111
+    21300530: super-mario-bg_112
+    21300532: super-mario-bg_113
+    21300534: super-mario-bg_114
+    21300536: super-mario-bg_115
+    21300538: super-mario-bg_116
+    21300540: super-mario-bg_117
+    21300542: super-mario-bg_118
+    21300544: super-mario-bg_119
+    21300546: super-mario-bg_120
+    21300548: super-mario-bg_121
+    21300550: super-mario-bg_122
+    21300552: super-mario-bg_123
+    21300554: super-mario-bg_124
+    21300556: super-mario-bg_125
+    21300558: super-mario-bg_126
+    21300560: super-mario-bg_127
+    21300562: super-mario-bg_128
+    21300564: super-mario-bg_129
+    21300566: super-mario-bg_130
+    21300568: super-mario-bg_131
+    21300570: super-mario-bg_132
+    21300572: super-mario-bg_133
+    21300574: super-mario-bg_134
+    21300576: super-mario-bg_135
+    21300578: super-mario-bg_136
+    21300580: super-mario-bg_137
+    21300582: super-mario-bg_138
+    21300584: super-mario-bg_139
+    21300586: super-mario-bg_140
+    21300588: super-mario-bg_141
+    21300590: super-mario-bg_142
+    21300592: super-mario-bg_143
+    21300594: super-mario-bg_144
+    21300596: super-mario-bg_145
+    21300598: super-mario-bg_146
+    21300600: super-mario-bg_147
+    21300602: super-mario-bg_148
+    21300604: super-mario-bg_149
+    21300606: super-mario-bg_150
+    21300608: super-mario-bg_151
+    21300610: super-mario-bg_152
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: super-mario-bg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1423
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addef3c1f9b7f4393a05cc3ca09e4c1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d83ab4a6ccc84f4e90e1c84ec04087c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3436407669769417f94742be6149b3a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07ab1a5854c54d56aa47e5ff353c5f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1369
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3807b8c5506ad46f3935d9fd578b2883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1370
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227292bda72e946689753afb0c453c64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_6
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1408
+        width: 83
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab9106e59f844aafa300832a944e581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1417
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ddac9a9ccd842babcd9c5c276584a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4a7ae7ba0124d9ebef0e0d88f8ed50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_9
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1382
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8efd60e5ff3d434b921614b84e36cf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_10
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1382
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7bd3e5fb40448b927367cb1566ae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_11
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1383
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d977f543e3648a8bc4d54c135c13ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_12
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1383
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f8c653bf8944eb598f716db9500ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_13
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1378
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaabd52959e5404593243eb6a084b63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c3bb58ab22a4d2097fbe55e5640492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1391
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dbbee01bb62422ca2f8d2970b7eaf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1391
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63367c38ff1da4e339c0d6fc825e1668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1391
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f535e0ad405e44fdcafc07b5bd985915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1391
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65b1a9dd7d74439e841683ba8375fb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1391
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d67f332b521540c795586075285cde6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_20
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1284
+        width: 143
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4437986b0d6804deabed7f6a4851f495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_21
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1389
+        width: 67
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62acd2771df75441299730cd2116e272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1398
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a35a00470d9d4aaa9ab89e701b7207b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_23
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c2b8210e414679809ba4f63ff48fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1381
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae45cea016c4df58fdccca851ab335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1381
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf42cf1fc6d3e4d24a35f349c802164d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1381
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d55cb7f695e9474bb8ffcc94b3f4751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_27
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1381
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b1565926a8f4cff95ce7a707f8d3df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_28
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1369
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d12e228dca843c49b2ff225845a41a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_29
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1379
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadb40e2d936d49e5ada9ba276dc0cfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_30
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1378
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e572e0988bb30421897da95d23ec35c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1359
+        width: 120
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54de25d8c854406d9943b0ad6c647be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f8925ae5ab44e10873fad7cbfdc07b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14ad9989ec0f4a6ea3e5d1a625b6aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5537be104af4793b67c2825d40bbb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_35
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1361
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa17bd766f3c4c4095af0ca3f982b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1299
+        width: 127
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbe03463d323408fa42f52896b02863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_37
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1299
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342406044778e42248ef0a9ec521d47f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_38
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1359
+        width: 191
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cddcba6916424aaf82f97f9b0a76bf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_39
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1359
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682b8b0379aeb4ee0b8a37d366e9b79f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94531ed2ec4594fdb891d465801beb47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d28f40f02e54a3687d9b643015de4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975db5c299e3d4aa58fad7d9bfa2ebab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd08532a3e888419782e21d557a81e93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b624725424065444da16f2652685cc29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc333f49e5c346a995bda38dc8b6da8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_46
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1342
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c267288506f94a2aba7f02e9222a4de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_47
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1299
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318f022d394a84db5b03dc2856c51e8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_48
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1340
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40289a46d519f4e4ebcc8e3eac720b9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_49
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fb4b256b0234d94b8c6703f4afbd45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_50
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7450eac4418b942a1bf9a75d5f9ced94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_51
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1292
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35b6db7e9f7c4f3aacf02a55c162dac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_52
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1332
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b9b13c308b04d1a9a2483388f0928a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_53
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1322
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ac25b38b85e4c6fb11216f4bc26325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_54
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b48260ec384af2a56fd1793b3ac9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1316
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f38a65a98e045038ee535d304a236b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_56
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1321
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d82fd795d454365a81f1bad332f246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_57
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1299
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cee7ff80587a4009aa60df505ec7fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_58
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae058431e53e549bfa1684b71ecd1dd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_59
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde017dfb92894c4d80e60bb7cfa3ccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818e8a2bbf6a14ea6a5732cf2e3a13fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2b989a18fc94206b57039b450b1007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1286
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea57d8171ee4c9bac636cc77a8d242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d1c303bda9f4c3f979e981b62b7113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_64
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1278
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e5556626bc044cb95610f56623e22f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_65
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1301
+        width: 136
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fbab71dd68f4035bef31241771a427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_66
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1239
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd067de38aac4d42b6c90e7efadb214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_67
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1296
+        width: 96
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bb723b959b74dceaaa84899e216610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf89d0ff68294b9eb174d5a82d3d2ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_69
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7556e8d51bf4c48946cd9423bc3267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_70
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86844942fcda041978aa905a3c0b37ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1277
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a197b80761445d4818081fc36fafcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_72
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518e6667fa42944758496bb53f7a325b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_73
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1281
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be62b840208c840aeb0752db9a68f079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_74
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1267
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9d1209482d94aa2a76b4e7cffc93ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_75
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1238
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f933e1ad07cb34164a7b50faccd50612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_76
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1184
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d10ec6dddb743d9af2959440dbcce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_77
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1170
+        width: 176
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3dc8009465e4ba995476b4d8cfd70e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_78
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1241
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0a1e9f2225d4163b2af13c2f992f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_79
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1238
+        width: 144
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8204a53c1d8b64367942ba7ea32bff84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_80
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb26a53d9040f4db09912f5e3cd7f305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_81
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f36e7d80d644da88c77f97c8f86ef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_82
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e69401d7dc79443498126d4e6a343e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_83
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509441c24d41d47d98ad2bd3d1d4f9f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_84
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1245
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c9352c579e34900bc064fe5901712c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_85
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea48e139ebc4642968d87b7156b121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_86
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1245
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e69261c3d154558990f5c4d5ef86e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_87
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1245
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d79ab631ca8479bacba804b8258922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_88
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1245
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d448cd254a21749d7877157963f83d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_89
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1109
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8d99c47ea324a68bb364f736de9d6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_90
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1158
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485332067728245bb903b0f0d0f0ed98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_91
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1205
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984b7b320514744eaa5be40ec90d04b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_92
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1187
+        width: 256
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae43608a828bb4134b6d8a41cd2b2fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_93
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1187
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f224a0a76594c75aed1e7b267e190e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_94
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1175
+        width: 256
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a34e861f0214c16b2bbfa6882ff9a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_95
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1035
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2838c56cded3401192b51d0604759b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_96
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1167
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c47c4072f3e423fa131afd2ff7003e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_97
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1150
+        width: 94
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a417636d0f3564c7b87e4cda33e8e367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_98
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1125
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9048bcb5d92a541899f9c35ab596ed94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_99
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1150
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ee8c6c7c61c4f6db16438b76fc044a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_100
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1112
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817ce639cd9d2435f9a33ee0f0465b74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_101
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1126
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fe77b2f72c54722b5ef3e90c5d8fc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_102
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1131
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f46b025854d44105879ae5ed5115850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_103
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1110
+        width: 106
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fe480bcdd07418d9e23e7f945a1eda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_104
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1108
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8fbfab7aa7142dba62d416ff526ffb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_105
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1142
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b470a320ba3684d5e8608fad2804fea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_106
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1140
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd16142c6df43bdb07414525215b8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_107
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1099
+        width: 123
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2787ad1a4d943b4a7a5b600355c1cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_108
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1115
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf0ff62d9e5f47d18fdac8b46c0c5b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_109
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1092
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f4c54b37e06430b914e7062cb7acd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_110
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1092
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba501de9f30b4a00b2c97ab8e51034e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_111
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1092
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2004fa03414e5ab02b0a22239fd04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_112
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1093
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e1d1b92edf247db96d65eb3aadb90f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_113
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1093
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2c87182437547539bad35cb731a3ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_114
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1093
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae27d8d75021344a6a780bf0a909c386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_115
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1093
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acbd8e76552746ff86ae970316d7081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_116
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1093
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65afdda056bd64100b6f54e270b9f286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_117
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1093
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561643e81695b47e1858098810f15fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_118
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1109
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c2d84ee49a4420992f7990713f42ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_119
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1036
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80edff9d160944acb2b7c21fddf9e53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_120
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1036
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9685dab8128424b6f87457d5efa7c7ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_121
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1036
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78d3aa0a8787417b907be7f8e488481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_122
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1098
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0af0f67855a4dc493368d74aa80d2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_123
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1095
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b231df7e99945ada23c53137adbe3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_124
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1067
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7c0ac761c7243119202a6374e98136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_125
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1076
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ffc2fe458e74e5da2d09fe71c2cf33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_126
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1076
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b149afe32953249c284085e0c4c7c3fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_127
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1076
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e732c29a023b3409aa21a8827e8dadcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_128
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1037
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5807d3fc74a0f4661bd4a3ccf21027ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_129
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1036
+        width: 121
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8677596cd9a47c4933ebc6db5785ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_130
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1039
+        width: 105
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d0fda5588ca49b7b78b98faf41b699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_131
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1039
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7388d2382ebad478f9a3a7335b7b0139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_132
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1037
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef25c80272464aa89e4060d49a5cf0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_133
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1053
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fe075149d314b349a2e5a6d25ff0ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_134
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1041
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e94fb2e4838345dfa250f4fe825dcad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_135
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 871
+        width: 256
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76380a25117af4e8dac365f2d7b8b361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_136
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 986
+        width: 256
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a0ade3cc30f41b682684b437f990e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_137
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 626
+        width: 256
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9eb2f1a9cc849e6b5e950183d4f5a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_138
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 628
+        width: 256
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f442f8a4c0a4b7d84e6252948836c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_139
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 624
+        width: 256
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb9d40034ada4c8099af9e35cf12800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_140
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 626
+        width: 256
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f479149300afb4d9aa3c80d4f756d382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_141
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 434
+        width: 256
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5806cab1de74df291187e1f2e01c02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_142
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 434
+        width: 92
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc0f35daf0534adfb0ae694a9e6637a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_143
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 431
+        width: 256
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791252a93f4a4b79bcfd4abbce73213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_144
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 431
+        width: 256
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ead5f1876b348638589617ff0d1b55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_145
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 430
+        width: 176
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10163efcf87744a83ab619cb5843b3b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_146
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 275
+        width: 255
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f7f99b7046047f282e4e36f0b87571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_147
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 243
+        width: 256
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3225bab1bcb4436b2977f714d77fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_148
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 238
+        width: 256
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b863996b5574b8994f5521013c37ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_149
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 41
+        width: 256
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e405430664b4084939459fa04ac8c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_150
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 40
+        width: 256
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbe30a71ee674dada63345485f7e5ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_151
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 41
+        width: 255
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a179e2db6c5048c9b6e3ad3471be2b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-bg_152
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 106
+        width: 254
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e2947727d7f4003aaf9ec9e002e575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 96498fa4937db4a88a9723e8d0fe08af
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
